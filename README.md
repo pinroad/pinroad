@@ -22,7 +22,7 @@
 ```sh
 - 즐거움과 흥미를 줄 수 있는 콘텐츠를 만들고 싶습니다.
 - 꾸준함과 성취감을 중요시 합니다.
-- 탄탄한 기본기와 개발 역량을 발전시키기 위해 끊임없이 공부하고 있습니다.
+- 기본기와 개발 역량을 발전시키기 위해 끊임없이 공부하고 있습니다.
 ```
 [![github stats](https://github-readme-stats.vercel.app/api?username=pinroad&hide=stars&show_icons=true&title_color=CD2E57&icon_color=CD2E57)](https://github.com/pinroad/github-readme-stats)
 
