@@ -3,10 +3,12 @@
 <p align="center"> 
   <img src="https://img.shields.io/badge/-Javascript-FCC624?style=flat&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/-React-0088cc?style=flat&logo=react&logoColor=white">
+  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white">
   <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=Node.js&logoColor=white">
   <img src="https://img.shields.io/badge/-Express-000000?style=flat">
   <img src="https://img.shields.io/badge/-MySQL-1793D1?style=flat&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/-AWS-BB0A30?style=flat&logo=amazonaws"> <br/>
+  <img src="https://img.shields.io/badge/-AWS-BB0A30?style=flat&logo=amazon&logoColor=white"> <br/>
+  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=Postman&logoColor=white">
   <img src="https://img.shields.io/badge/-Linux-002244?style=flat&logo=linux&logoColor=white">
   <img src="https://img.shields.io/badge/-git-f05032?style=flat&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/-github-000000?style=flat&logo=github">
@@ -16,11 +18,14 @@
 
 ```sh
 평소 자바스크립트를 이용한 UI 개발에 관심이 많아 프론트엔드 공부를 시작했습니다.
-최근 Typescript와 Redux 공부를 하고 있습니다.
 ```
+
+### Studying 
+<img src="https://img.shields.io/badge/-Typescript-3178C6?style=flat&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white"> <img src="https://img.shields.io/badge/-styled_components-DB7093?style=flat&logo=styled-components&logoColor=white"> 
+
 ### :fire: Always
 ```sh
-- 즐거움과 흥미를 줄 수 있는 콘텐츠를 만들고 싶습니다.
+- 즐거움과 흥미를 줄 수 있는 콘텐츠를 만들기 위해 최신 트렌드를 눈여겨봅니다.
 - 꾸준함과 성취감을 중요시 합니다.
 - 기본기와 개발 역량을 발전시키기 위해 끊임없이 공부하고 있습니다.
 ```
