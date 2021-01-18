@@ -16,11 +16,7 @@
   <img src="https://img.shields.io/badge/-Notion-000000?style=flat&logo=notion">
 </p>
 
-```sh
-평소 자바스크립트를 이용한 웹 개발에 관심이 많아 프론트엔드 공부를 시작했습니다.
-```
-
-### Studying 
+### ✏ Studying 
 <img src="https://img.shields.io/badge/-Typescript-3178C6?style=flat&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white"> <img src="https://img.shields.io/badge/-styled_components-DB7093?style=flat&logo=styled-components&logoColor=white"> 
 
 ### :fire: Always
