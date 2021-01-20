@@ -29,7 +29,6 @@
 
 ### :low_brightness: Contacts
 [![](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shirus87@gmail.com?subject=subject)
-[![](https://img.shields.io/badge/-Portfolio-0096D6?style=for-the-badge)](https://pinroad.github.io/)
 [![](https://img.shields.io/badge/-Velog-4fc08d?style=for-the-badge&logo=vimeo&logoColor=white)](https://velog.io/@leobit)
 
 <p align="center"> 
