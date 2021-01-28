@@ -29,7 +29,7 @@
 
 ### :low_brightness: Contacts
 [![](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shirus87@gmail.com?subject=subject)
-[![](https://img.shields.io/badge/-Velog-4fc08d?style=for-the-badge&logo=vimeo&logoColor=white)](https://velog.io/@leobit)
+
 
 <p align="center"> 
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpinroad&count_bg=%23BE4123&title_bg=%23584C4C&icon=&icon_color=%23DD4747&title=welcome%21&edge_flat=false">
